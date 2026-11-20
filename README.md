@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Anjum Khan
-🎓 I'm a Student.
+🎓 I'm a MCA Student.
 💻 I'm a beginner in Coding.
 🌱 Currently learning Programming.
 🚀 My goal is to become a skilled developer.
